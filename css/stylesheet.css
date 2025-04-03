@@ -1,0 +1,44 @@
+h1{
+    text-align: center;
+    padding: 30px;
+}
+
+p{
+    text-align: center;
+}
+
+.social-wrapper{
+    padding-top: 70px;
+    padding-bottom: 70px;
+    padding-left: 10px;
+    position: relative;
+}
+
+.wrapper{
+    padding-left: 60px;
+    padding-right: 60px;
+}
+
+.maintenance{
+    padding-top: 15px;
+}
+
+.nes-octocat{
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
+}
+
+.nes-balloon{
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
+}
+
+.octo-wrapper{
+    padding-left: 220px;
+}
